@@ -1,4 +1,4 @@
-
+#include<iostream>;
 using namespace std;
 
 int firstOccurrence(int arr[], int n, int key) {
@@ -60,4 +60,5 @@ int main() {
     }
 
     return 0;
+
 }
